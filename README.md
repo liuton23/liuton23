@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Trevor
-- 👀 I’m interested in working with data
-- 🌱 I’m currently learning programming
 - 📫 How to reach me: trevor.liu28@gmail.com
 
 <!---
